@@ -1,0 +1,12 @@
+{
+  "lockfileVersion": 1,
+  "tool": "terraform-pin",
+  "version": "1.16.3",
+  "tag": "v1.16.3",
+  "source": {
+    "provider": "github",
+    "repository": "hashicorp/terraform",
+    "host": "https://github.com"
+  },
+  "assets": {}
+}

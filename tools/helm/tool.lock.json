@@ -1,0 +1,29 @@
+{
+  "lockfileVersion": 1,
+  "tool": "helm",
+  "version": "3.21.4",
+  "tag": "v3.21.4",
+  "source": {
+    "provider": "github",
+    "repository": "helm/helm",
+    "host": "https://github.com"
+  },
+  "assets": {
+    "linux-amd64": {
+      "upstream": "https://get.helm.sh/helm-v3.21.4-linux-amd64.tar.gz!linux-amd64/helm",
+      "destination": "tools/helm/linux-amd64/helm",
+      "size": 59383970,
+      "sha256": "cd27ec335b9c961a0a098cce870fded88429210edc898fd213da0b16e67333bd",
+      "verifiedBy": "sha256:https://get.helm.sh/helm-v3.21.4-linux-amd64.tar.gz.sha256sum",
+      "storage": "lfs"
+    },
+    "windows-amd64": {
+      "upstream": "https://get.helm.sh/helm-v3.21.4-windows-amd64.zip!windows-amd64/helm.exe",
+      "destination": "tools/helm/windows-amd64/helm.exe",
+      "size": 60890624,
+      "sha256": "08e9cc1c8c7761ddbf0edf9ad2d131d96811c4cf4124201d216c18be26df0d7b",
+      "verifiedBy": "sha256:https://get.helm.sh/helm-v3.21.4-windows-amd64.zip.sha256sum",
+      "storage": "lfs"
+    }
+  }
+}
