@@ -17,7 +17,7 @@
 # Upstream: https://github.com/hashicorp/terraform/releases
 
 name: terraform-pin
-version: "1.16.3"
+version: "1.16.4"
 tag: v{version}
 
 source:
