@@ -16,7 +16,7 @@
 #   checksums  https://get.helm.sh/helm-v3.22.0-linux-amd64.tar.gz.sha256sum
 
 name: helm
-version: "3.21.4"
+version: "3.22.1"
 tag: v{version}
 allow: "<4.0.0"                 # only propose 3.x versions
 
