@@ -1,8 +1,8 @@
 {
   "lockfileVersion": 1,
   "tool": "pact-cli",
-  "version": "0.10.9",
-  "tag": "v0.10.9",
+  "version": "0.10.10",
+  "tag": "v0.10.10",
   "source": {
     "provider": "github",
     "repository": "pact-foundation/pact-cli",
@@ -12,15 +12,15 @@
     "linux-amd64": {
       "upstream": "pact-x86_64-unknown-linux-musl.tar.xz",
       "destination": "tools/pact-cli/linux-amd64/pact.tar.xz",
-      "size": 7645988,
-      "sha256": "13a537510447d1b4d8f5c08cde290d5acd2e391bccd6c210cc420f6504bff564",
+      "size": 7710976,
+      "sha256": "1a46109a6a7a111dd6263388795298831c91b86b3835ba1231955c9186db4f51",
       "verifiedBy": "sha256:pact-x86_64-unknown-linux-musl.tar.xz.sha256"
     },
     "windows-amd64": {
       "upstream": "pact-x86_64-pc-windows-msvc.zip",
       "destination": "tools/pact-cli/windows-amd64/pact.zip",
-      "size": 9092073,
-      "sha256": "0dbe6a9593ed1da48848a316aae7100ddc579533bcea5d004bf66708cf783d69",
+      "size": 9170632,
+      "sha256": "de0999f7991711c374d6f6cadb3507d5b7e285bffcc8747e9608150ee80ac975",
       "verifiedBy": "sha256:pact-x86_64-pc-windows-msvc.zip.sha256"
     }
   }
